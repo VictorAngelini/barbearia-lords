@@ -1,4 +1,5 @@
 # Sistema de Agendamento - Barbearia Lords
+![Banner do Projeto](banner.jpg.PNG)
 
 Sistema Full-stack para gestao de agendamentos em barbearias, focado em experiencia do usuario e agilidade no atendimento.
 
@@ -16,4 +17,4 @@ Sistema Full-stack para gestao de agendamentos em barbearias, focado em experien
 ---
 Projeto desenvolvido para portfolio tecnico de Desenvolvimento Full-Stack.
 
-banner.jpg
+
