@@ -15,3 +15,5 @@ Sistema Full-stack para gestao de agendamentos em barbearias, focado em experien
 
 ---
 Projeto desenvolvido para portfolio tecnico de Desenvolvimento Full-Stack.
+
+banner.jpg
