@@ -17,4 +17,10 @@ Sistema Full-stack para gestao de agendamentos em barbearias, focado em experien
 ---
 Projeto desenvolvido para portfolio tecnico de Desenvolvimento Full-Stack.
 
+Este projeto segue uma estrutura modular para garantir a organização e o reaproveitamento de código entre diferentes partes da aplicação:
+/server: Contém a lógica do servidor (Back-end), incluindo o arquivo package.json para gerenciamento de dependências e scripts de execução.
+/shareds: Pasta destinada a códigos, tipos ou funções utilitárias que são compartilhados entre diferentes módulos do sistema, evitando duplicação.
+/src: Diretório principal do código-fonte, onde se encontra a lógica de negócio e os componentes fundamentais do projeto.
+Essa organização foi escolhida para manter a separação de responsabilidades (SoC), facilitando a escalabilidade e a manutenção do software, conforme os princípios de Engenharia de Software que estou aplicando em minha formação.
+
 
