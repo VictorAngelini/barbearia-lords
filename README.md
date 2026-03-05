@@ -6,7 +6,7 @@ Status do Projeto: Deploy realizado com sucesso.
 
 Sistema Full-stack para gestão de agendamentos em barbearias, desenvolvido com foco em experiência do usuário (UX), performance e integridade de dados.
 
-TECNOLOGIAS E FERRAMENTAS
+TECNOLOGIAS E FERRAMENTAS:
 O projeto utiliza uma stack moderna e tipada para garantir escalabilidade:
 Frontend: React.js, Tailwind CSS e Framer Motion.
 Back-end: Node.js e Express.
@@ -14,12 +14,12 @@ Linguagem: TypeScript (96% da base de código).
 Validação de Dados: Zod.
 Infraestrutura: Git para controle de versionamento e implantação automatizada.
 
-FUNCIONALIDADES PRINCIPAIS
+FUNCIONALIDADES PRINCIPAIS:
 Agendamento Inteligente: Lógica de negócio aplicada para evitar agendamentos fora do horário de expediente ou em períodos de conflito.
 Interface Responsiva: Arquitetura de UI adaptada para garantir uma navegação fluida tanto em dispositivos móveis quanto em desktops.
 Painel Administrativo: Área dedicada para a visualização e gestão do fluxo de agendamentos em tempo real.
 
-ARQUITETURA E ORGANIZAÇÃO
+ARQUITETURA E ORGANIZAÇÃO:
 Este projeto segue uma estrutura modular, aplicando princípios fundamentais de Engenharia de Software para facilitar a manutenção e escalabilidade:
 servidor (Back-end): Contém a lógica de servidor, gerenciamento de rotas da API e scripts de execução.
 compartilhado: Camada de compartilhamento de tipos e esquemas de validação (Zod), garantindo consistência técnica entre cliente e servidor.
