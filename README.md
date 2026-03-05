@@ -1,26 +1,31 @@
-# Sistema de Agendamento - Barbearia Lords
+Sistema de Agendamento - Barbearia Lords
+
 ![Banner do Projeto](banner.jpg.PNG)
 
-Sistema Full-stack para gestao de agendamentos em barbearias, focado em experiencia do usuario e agilidade no atendimento.
+Status do Projeto: Deploy realizado com sucesso.
 
-## Tecnologias Utilizadas
-- Frontend: React.js, Tailwind CSS e Framer Motion.
-- Backend: Node.js e Express.
-- Linguagem: TypeScript.
-- Validacao de Dados: Zod.
+Sistema Full-stack para gestão de agendamentos em barbearias, desenvolvido com foco em experiência do usuário (UX), performance e integridade de dados.
 
-## Funcionalidades
-- Agendamento Inteligente: Bloqueio de horários fora do expediente.
-- Interface Responsiva: Adaptado para celular e computador.
-- Painel Administrativo: Area para visualizacao e gestao dos agendamentos realizados.
+Tecnologias e Ferramentas
+O projeto utiliza uma stack moderna e tipada para garantir escalabilidade:
+Frontend: React.js, Tailwind CSS e Framer Motion.
+Backend: Node.js e Express.
 
----
-Projeto desenvolvido para portfolio tecnico de Desenvolvimento Full-Stack.
+Linguagem: TypeScript (96% da base de código).
+Validação de Dados: Zod.
+Infraestrutura: Git para controle de versionamento e deploy automatizado.
 
-Este projeto segue uma estrutura modular para garantir a organização e o reaproveitamento de código entre diferentes partes da aplicação:
-/server: Contém a lógica do servidor (Back-end), incluindo o arquivo package.json para gerenciamento de dependências e scripts de execução.
-/shareds: Pasta destinada a códigos, tipos ou funções utilitárias que são compartilhados entre diferentes módulos do sistema, evitando duplicação.
-/src: Diretório principal do código-fonte, onde se encontra a lógica de negócio e os componentes fundamentais do projeto.
-Essa organização foi escolhida para manter a separação de responsabilidades (SoC), facilitando a escalabilidade e a manutenção do software, conforme os princípios de Engenharia de Software que estou aplicando em minha formação.
+Funcionalidades Principais
+Agendamento Inteligente: Lógica de negócio aplicada para impedir agendamentos fora do horário de expediente ou em períodos de conflito.
+Interface Responsiva: Arquitetura de UI adaptada para garantir navegação fluida tanto em dispositivos móveis quanto em desktops.
+Painel Administrativo: Área dedicada para a visualização e gestão do fluxo de agendamentos em tempo real.
+
+Arquitetura e Organização
+Este projeto segue uma estrutura modular, aplicando princípios fundamentais de Engenharia de Software para facilitar a manutenção e escalabilidade:
+servidor (Back-end): Contém a lógica de servidor, gerenciamento de rotas da API e scripts de execução.
+compartilhado: Camada de compartilhamento de tipos e esquemas de validação (Zod), garantindo consistência técnica entre cliente e servidor.
+src (Front-end): Diretório principal do código-fonte da interface, organizado em componentes reutilizáveis.
+Nota Técnica: A organização do repositório foi baseada no princípio de Separação de Responsabilidades (SoC), visando um software desacoplado e de fácil manutenção conforme as melhores práticas de mercado.
+
 
 
