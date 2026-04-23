@@ -13,7 +13,7 @@ Back-end: Node.js e Express.
 Linguagem: TypeScript (96% da base de código).
 Validação de Dados: Zod.
 Infraestrutura: Git para controle de versionamento e implantação automatizada.
-Banco de Dados: MySQL
+Banco de Dados:  PostgreSQL
 
 FUNCIONALIDADES PRINCIPAIS:
 Agendamento Inteligente: Lógica de negócio aplicada para evitar agendamentos fora do horário de expediente ou em períodos de conflito.
